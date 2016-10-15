@@ -1,0 +1,8 @@
+import("arules")
+import("Matrix")
+
+importFrom("methods", "as")
+importFrom("stats", "rbinom")
+
+export("RSarules")
+
